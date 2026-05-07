@@ -1,4 +1,3 @@
-
 from database import Database
 import menu_options as options
 

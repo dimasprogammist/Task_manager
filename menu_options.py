@@ -1,5 +1,3 @@
-
-from database import Database
 import csv
 import datetime
 
